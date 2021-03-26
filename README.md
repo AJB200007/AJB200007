@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AJB200007
+- 👀 I’m interested in learning the basics of html
+- 🌱 I’m currently learning html
